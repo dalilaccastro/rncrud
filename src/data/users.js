@@ -26,14 +26,14 @@ export default [
     {
         id: 5,
         name: 'Indira Santos',
-        email: 'indira_c_santos@emptymail.com',
+        email: 'indira_santos@emptymail.com',
         avatar_url: 'https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_960_720.png'
     },
     {
         id: 6,
         name: 'Ivo Mota',
         email: 'ivomota42@emptymail.com',
-        avatar_url: 'https://cdn.pixabay.com/photo/2020/11/22/22/17/male-5768177_960_720.png'
+        avatar_url: 'https://cdn.pixabay.com/photo/2016/03/31/21/40/angry-1296580_960_720.png'
     },
     {
         id: 7,
@@ -45,18 +45,18 @@ export default [
         id: 8,
         name: 'Indira Silva',
         email: 'indira_silva@emptymail.com',
-        avatar_url: 'https://cdn.pixabay.com/photo/2016/08/20/05/36/avatar-1606914_960_720.png'
+        avatar_url: 'https://cdn.pixabay.com/photo/2021/03/03/08/39/woman-6064799_960_720.jpg'
     },
     {
         id: 9,
         name: 'Igor Mota',
         email: 'igormota43@emptymail.com',
-        avatar_url: 'https://cdn.pixabay.com/photo/2020/11/22/22/17/male-5768177_960_720.png'
+        avatar_url: 'https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png'
     },
     {
         id: 10,
         name: 'Neide Arlete',
         email: 'arlete_nene@emptymail.com',
-        avatar_url: 'https://cdn.pixabay.com/photo/2017/04/30/11/42/hijab-2272708_960_720.png'
+        avatar_url: 'https://cdn.pixabay.com/photo/2021/04/20/07/59/woman-6193184_960_720.jpg'
     }
 ]
