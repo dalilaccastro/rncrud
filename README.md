@@ -15,13 +15,11 @@ Este projeto consiste em uma aplicação mobile simples de CRUD (Create, Read, U
 - [React Native](https://reactnative.dev/)
 - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) para persistência local de dados
 
-## 📂 Estrutura do Projeto
+🤓 O que aprendi
+Manipulação de dados com AsyncStorage para persistência local
 
-```bash
-.
-├── components       # Componentes reutilizáveis (Form, List, etc.)
-├── screens          # Tela principal, de edição, etc.
-├── utils            # Funções auxiliares e lógica de manipulação de dados
-├── assets           # Imagens, ícones, etc.
-├── App.js           # Arquivo de entrada principal
-└── ...
+Implementação de funcionalidades CRUD em React Native
+
+Estruturação e organização de código em componentes reutilizáveis
+
+Boas práticas de navegação e gerenciamento de estado
