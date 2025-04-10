@@ -1,25 +1,98 @@
-# 📱 React Native CRUD (RNCRUD)
+# 📝 CRUD de Usuários (React Native)
 
-Este projeto consiste em uma aplicação mobile simples de CRUD (Create, Read, Update, Delete), desenvolvida com React Native. A aplicação permite o gerenciamento de dados locais, mostrando como manipular estados e integrar funcionalidades básicas de interação com o usuário.
+Este projeto é uma aplicação mobile de CRUD (Create, Read, Update, Delete) de usuários, desenvolvida com **React Native**. Ele tem como objetivo demonstrar o uso de navegação, formulários, estados e chamadas de API em uma interface simples e funcional.
 
-## 🎮 Funcionalidades
+---
 
-- **Create:** Adicionar novos itens ao banco de dados local
-- **Read:** Exibir uma lista dos itens salvos
-- **Update:** Editar os itens existentes
-- **Delete:** Remover itens do banco de dados local
-- Interface simples e interativa, com navegação entre as telas
+## 🚀 Funcionalidades
+
+- Listagem de usuários
+- Adição de novos usuários
+- Edição de dados do usuário
+- Remoção de usuários
+- Navegação entre telas com React Navigation
+
+---
+
+## 📱 Telas
+
+- Tela inicial com lista de usuários
+- Tela de formulário para adicionar/editar usuário
+- Confirmação de exclusão
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [React Native](https://reactnative.dev/)
-- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) para persistência local de dados
+- React Native  
+- React Navigation  
+- Expo  
+- TypeScript ou JavaScript
 
-## 🤓 O que aprendi
-- Manipulação de dados com AsyncStorage para persistência local
+---
 
-- Implementação de funcionalidades CRUD em React Native
+## 📦 Instalação
 
-- Estruturação e organização de código em componentes reutilizáveis
+```bash
+git clone https://github.com/dalilaccastro/rncrud.git
+cd rncrud
+npm install
+npx expo start
+```
+---
 
-- Boas práticas de navegação e gerenciamento de estado
+## 👩‍💻 Autora
+
+Desenvolvido por [@dalilaccastro](https://github.com/dalilaccastro)
+
+---
+
+# 📝 User CRUD App (React Native)
+
+This is a mobile CRUD (Create, Read, Update, Delete) application for user management, built with **React Native**. It demonstrates usage of navigation, forms, state handling, and API calls in a clean mobile interface.
+
+---
+
+## 🚀 Features
+
+- User listing
+- Add new user
+- Edit user information
+- Delete user
+- Navigation between screens using React Navigation
+
+---
+
+## 📱 Screens
+
+- Home screen with user list
+- Form screen for adding/editing users
+- Delete confirmation alert
+
+---
+
+## 🛠️ Technologies Used
+
+- React Native  
+- React Navigation  
+- Expo  
+- TypeScript or JavaScript
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/dalilaccastro/rncrud.git
+cd rncrud
+npm install
+npx expo start
+```
+---
+
+## 👩‍💻 Author
+
+Developed by [@dalilaccastro](https://github.com/dalilaccastro)
+
+---
+
